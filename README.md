@@ -2,6 +2,13 @@
 
 - This course provides a holistic view of modern network security including operating system hardening, firewalls, intrusion-detection systems, VPNs and Encryption. Physical Security, Standards, System Security and Security Policies are also included.
 
+- [Certificate Verification Link](https://www.credential.net/8dfd1869-92a5-4c1f-b799-8bde62898622)
+
+## Certificate
+
+![](https://i.imgur.com/symaar5.png)
+
+
 ## Modules
 
 - Module 1: Introduction to Network Security
